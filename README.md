@@ -1,2 +1,1 @@
-# Rep
-My first repository on GitHub
+Devobs Seminar information
